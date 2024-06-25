@@ -1,0 +1,36 @@
+C:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_2\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_2\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_2\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_2\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_2\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_2\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_2\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_2\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_2\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_2\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_2\Domain\obj\Debug\net8.0\ref\Domain.dll
+c:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_2\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+c:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_3\Domain\bin\Debug\net8.0\Domain.deps.json
+c:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_3\Domain\bin\Debug\net8.0\Domain.dll
+c:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_3\Domain\bin\Debug\net8.0\Domain.pdb
+c:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_3\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_3\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+c:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_3\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+c:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_3\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+c:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_3\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+c:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_3\Domain\obj\Debug\net8.0\Domain.dll
+c:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_3\Domain\obj\Debug\net8.0\refint\Domain.dll
+c:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_3\Domain\obj\Debug\net8.0\Domain.pdb
+c:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_3\Domain\obj\Debug\net8.0\ref\Domain.dll
+c:\Users\Pc\Desktop\Try Again\Trabajo_Practico_3_BACK\Domain\bin\Debug\net8.0\Domain.deps.json
+c:\Users\Pc\Desktop\Try Again\Trabajo_Practico_3_BACK\Domain\bin\Debug\net8.0\Domain.dll
+c:\Users\Pc\Desktop\Try Again\Trabajo_Practico_3_BACK\Domain\bin\Debug\net8.0\Domain.pdb
+c:\Users\Pc\Desktop\Try Again\Trabajo_Practico_3_BACK\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Pc\Desktop\Try Again\Trabajo_Practico_3_BACK\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+c:\Users\Pc\Desktop\Try Again\Trabajo_Practico_3_BACK\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+c:\Users\Pc\Desktop\Try Again\Trabajo_Practico_3_BACK\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+c:\Users\Pc\Desktop\Try Again\Trabajo_Practico_3_BACK\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+c:\Users\Pc\Desktop\Try Again\Trabajo_Practico_3_BACK\Domain\obj\Debug\net8.0\Domain.dll
+c:\Users\Pc\Desktop\Try Again\Trabajo_Practico_3_BACK\Domain\obj\Debug\net8.0\refint\Domain.dll
+c:\Users\Pc\Desktop\Try Again\Trabajo_Practico_3_BACK\Domain\obj\Debug\net8.0\Domain.pdb
+c:\Users\Pc\Desktop\Try Again\Trabajo_Practico_3_BACK\Domain\obj\Debug\net8.0\ref\Domain.dll

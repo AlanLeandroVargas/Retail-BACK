@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Interfaces\Category\" />
+    <Folder Include="Interfaces\Product\" />
+    <Folder Include="Interfaces\SaleProduct\" />
+    <Folder Include="Interfaces\Sale\" />
+    <Folder Include="UseCase\Category\" />
+    <Folder Include="UseCase\Product\" />
+    <Folder Include="UseCase\SaleProduct\" />
+    <Folder Include="UseCase\Sale\" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

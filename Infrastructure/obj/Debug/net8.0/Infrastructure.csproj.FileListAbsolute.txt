@@ -1,0 +1,54 @@
+C:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_2\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_2\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_2\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_2\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_2\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_2\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_2\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_2\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_2\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_2\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_2\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_2\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_2\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_2\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_2\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_2\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_2\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+c:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_2\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+c:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_3\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+c:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_3\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+c:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_3\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+c:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_3\Infrastructure\bin\Debug\net8.0\Application.dll
+c:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_3\Infrastructure\bin\Debug\net8.0\Domain.dll
+c:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_3\Infrastructure\bin\Debug\net8.0\Application.pdb
+c:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_3\Infrastructure\bin\Debug\net8.0\Domain.pdb
+c:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_3\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+c:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_3\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_3\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+c:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_3\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+c:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_3\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+c:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_3\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+c:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_3\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+c:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_3\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+c:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_3\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+c:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_3\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+c:\Users\Pc\Desktop\Uni\Proyecto_Software\Trabajo_Practico_3\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+c:\Users\Pc\Desktop\Try Again\Trabajo_Practico_3_BACK\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+c:\Users\Pc\Desktop\Try Again\Trabajo_Practico_3_BACK\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+c:\Users\Pc\Desktop\Try Again\Trabajo_Practico_3_BACK\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+c:\Users\Pc\Desktop\Try Again\Trabajo_Practico_3_BACK\Infrastructure\bin\Debug\net8.0\Application.dll
+c:\Users\Pc\Desktop\Try Again\Trabajo_Practico_3_BACK\Infrastructure\bin\Debug\net8.0\Domain.dll
+c:\Users\Pc\Desktop\Try Again\Trabajo_Practico_3_BACK\Infrastructure\bin\Debug\net8.0\Application.pdb
+c:\Users\Pc\Desktop\Try Again\Trabajo_Practico_3_BACK\Infrastructure\bin\Debug\net8.0\Domain.pdb
+c:\Users\Pc\Desktop\Try Again\Trabajo_Practico_3_BACK\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+c:\Users\Pc\Desktop\Try Again\Trabajo_Practico_3_BACK\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Pc\Desktop\Try Again\Trabajo_Practico_3_BACK\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+c:\Users\Pc\Desktop\Try Again\Trabajo_Practico_3_BACK\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+c:\Users\Pc\Desktop\Try Again\Trabajo_Practico_3_BACK\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+c:\Users\Pc\Desktop\Try Again\Trabajo_Practico_3_BACK\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+c:\Users\Pc\Desktop\Try Again\Trabajo_Practico_3_BACK\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+c:\Users\Pc\Desktop\Try Again\Trabajo_Practico_3_BACK\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+c:\Users\Pc\Desktop\Try Again\Trabajo_Practico_3_BACK\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+c:\Users\Pc\Desktop\Try Again\Trabajo_Practico_3_BACK\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+c:\Users\Pc\Desktop\Try Again\Trabajo_Practico_3_BACK\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
