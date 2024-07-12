@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pc\\Desktop\\Try Again\\Trabajo_Practico_3_BACK\\Retail\\Retail.csproj": {}
+    "C:\\Users\\Pc\\Desktop\\Retail\\Retail-BACK\\Retail\\Retail.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pc\\Desktop\\Try Again\\Trabajo_Practico_3_BACK\\Application\\Application.csproj": {
+    "C:\\Users\\Pc\\Desktop\\Retail\\Retail-BACK\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pc\\Desktop\\Try Again\\Trabajo_Practico_3_BACK\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\Pc\\Desktop\\Retail\\Retail-BACK\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Pc\\Desktop\\Try Again\\Trabajo_Practico_3_BACK\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\Pc\\Desktop\\Retail\\Retail-BACK\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pc\\Desktop\\Try Again\\Trabajo_Practico_3_BACK\\Application\\obj\\",
+        "outputPath": "C:\\Users\\Pc\\Desktop\\Retail\\Retail-BACK\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Pc\\Desktop\\Try Again\\Trabajo_Practico_3_BACK\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Pc\\Desktop\\Try Again\\Trabajo_Practico_3_BACK\\Domain\\Domain.csproj"
+              "C:\\Users\\Pc\\Desktop\\Retail\\Retail-BACK\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Pc\\Desktop\\Retail\\Retail-BACK\\Domain\\Domain.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\Pc\\Desktop\\Try Again\\Trabajo_Practico_3_BACK\\Domain\\Domain.csproj": {
+    "C:\\Users\\Pc\\Desktop\\Retail\\Retail-BACK\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pc\\Desktop\\Try Again\\Trabajo_Practico_3_BACK\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Pc\\Desktop\\Retail\\Retail-BACK\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Pc\\Desktop\\Try Again\\Trabajo_Practico_3_BACK\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Pc\\Desktop\\Retail\\Retail-BACK\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pc\\Desktop\\Try Again\\Trabajo_Practico_3_BACK\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Pc\\Desktop\\Retail\\Retail-BACK\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -128,14 +128,14 @@
         }
       }
     },
-    "C:\\Users\\Pc\\Desktop\\Try Again\\Trabajo_Practico_3_BACK\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\Pc\\Desktop\\Retail\\Retail-BACK\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pc\\Desktop\\Try Again\\Trabajo_Practico_3_BACK\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Pc\\Desktop\\Retail\\Retail-BACK\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Pc\\Desktop\\Try Again\\Trabajo_Practico_3_BACK\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Pc\\Desktop\\Retail\\Retail-BACK\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pc\\Desktop\\Try Again\\Trabajo_Practico_3_BACK\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Pc\\Desktop\\Retail\\Retail-BACK\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -152,8 +152,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Pc\\Desktop\\Try Again\\Trabajo_Practico_3_BACK\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Pc\\Desktop\\Try Again\\Trabajo_Practico_3_BACK\\Application\\Application.csproj"
+              "C:\\Users\\Pc\\Desktop\\Retail\\Retail-BACK\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Pc\\Desktop\\Retail\\Retail-BACK\\Application\\Application.csproj"
               }
             }
           }
@@ -198,14 +198,14 @@
         }
       }
     },
-    "C:\\Users\\Pc\\Desktop\\Try Again\\Trabajo_Practico_3_BACK\\Retail\\Retail.csproj": {
+    "C:\\Users\\Pc\\Desktop\\Retail\\Retail-BACK\\Retail\\Retail.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pc\\Desktop\\Try Again\\Trabajo_Practico_3_BACK\\Retail\\Retail.csproj",
+        "projectUniqueName": "C:\\Users\\Pc\\Desktop\\Retail\\Retail-BACK\\Retail\\Retail.csproj",
         "projectName": "Retail",
-        "projectPath": "C:\\Users\\Pc\\Desktop\\Try Again\\Trabajo_Practico_3_BACK\\Retail\\Retail.csproj",
+        "projectPath": "C:\\Users\\Pc\\Desktop\\Retail\\Retail-BACK\\Retail\\Retail.csproj",
         "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pc\\Desktop\\Try Again\\Trabajo_Practico_3_BACK\\Retail\\obj\\",
+        "outputPath": "C:\\Users\\Pc\\Desktop\\Retail\\Retail-BACK\\Retail\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -222,8 +222,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Pc\\Desktop\\Try Again\\Trabajo_Practico_3_BACK\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Pc\\Desktop\\Try Again\\Trabajo_Practico_3_BACK\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\Pc\\Desktop\\Retail\\Retail-BACK\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Pc\\Desktop\\Retail\\Retail-BACK\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }

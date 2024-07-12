@@ -43,8 +43,6 @@ public class ProductController : ControllerBase
     {
         try
         {
-            // if(name == "null"){name = null;}
-            // if(category == "null"){category = null;}
             var result = await _productServices.GetListProducts(name, category, offset, limit);            
             return new JsonResult(result){StatusCode = 200};
         }

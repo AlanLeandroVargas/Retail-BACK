@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fSyxjWb7JckR3UiPMJSvDAhNNgwz7xVEKJK/O4OMzA9aS0a84sMIQDSd34g+aBuDomeyzBlK8D7kCvnxTqGuQg==",
+  "dgSpecHash": "dmwbNMekBSC8Irn+pqxESJC1DOGX1K0hvEdU0vsO1wtAfM4swsuoHQkhhk+P7/zmX4KrqzZZLLbSrR0zGp8UsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pc\\Desktop\\Try Again\\Trabajo_Practico_3_BACK\\Retail\\Retail.csproj",
+  "projectFilePath": "C:\\Users\\Pc\\Desktop\\Retail\\Retail-BACK\\Retail\\Retail.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pc\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Pc\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
