@@ -482,3 +482,16 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+# VS Code
+.vscode
+
+#Bins y Objs
+/Application/bin 
+/Application/obj 
+/Domain/bin 
+/Domain/obj
+/Retail/bin
+/Retail/obj
+/Infrastructure/bin 
+/Infrastructure/obj 
